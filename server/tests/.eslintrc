@@ -1,0 +1,7 @@
+{
+  "globals": {
+    "expect": true,
+    "sinon": true,
+    "context": true
+  }
+}

@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Added scripts:
+
+### "yarn run server"
+Starts the server on port 4000, app will proxy requests to it
+
+### "yarn run test-server"
+Runs the server unit tests
+
+
 ## Available Scripts
 
 In the project directory, you can run:
